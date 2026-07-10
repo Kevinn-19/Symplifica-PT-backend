@@ -1,3 +1,7 @@
+require "net/http"
+require "uri"
+require "json"
+
 class OpenStreetMapService
 
   BASE_URL = "https://nominatim.openstreetmap.org/search"
