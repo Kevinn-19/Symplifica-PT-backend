@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  empleado: one
-  nombre: MyString
-  monto: 9.99
+  employee: one
+  nombre: Seguro Médico
+  monto: 100000
 
 two:
-  empleado: two
-  nombre: MyString
-  monto: 9.99
+  employee: two
+  nombre: Auxilio Transporte
+  monto: 50000

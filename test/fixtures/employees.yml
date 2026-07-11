@@ -1,15 +1,15 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  nombre: MyString
-  apellido: MyString
-  correo: MyString
-  cargo: MyString
-  ciudad: MyString
+  nombre: Kevin
+  apellido: Chiquillo
+  correo: kevin19@prueba.com
+  cargo: Developer
+  ciudad: Bogota
 
 two:
-  nombre: MyString
-  apellido: MyString
-  correo: MyString
-  cargo: MyString
-  ciudad: MyString
+  nombre: Juan
+  apellido: Perez
+  correo: juan@test.com
+  cargo: QA
+  ciudad: Medellin
