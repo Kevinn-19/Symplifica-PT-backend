@@ -16,7 +16,7 @@ class OpenStreetMapService
     )
 
     request = Net::HTTP::Get.new(uri)
-    request["User-Agent"] = "SymplificaTechnicalTest"
+    request["User-Agent"] = "SymplificaPruebaTecnica"
 
     response = Net::HTTP.start(
       uri.hostname,

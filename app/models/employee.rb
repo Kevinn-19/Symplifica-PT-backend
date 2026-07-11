@@ -7,5 +7,5 @@ class Employee < ApplicationRecord
            dependent: :destroy
 
   validates :nombre, :apellido, :correo, :cargo, :ciudad, presence: true
-  validates :correo, uniqueness: true
+  validates :correo, uniqueness: { case_sensitive: false }
 end
